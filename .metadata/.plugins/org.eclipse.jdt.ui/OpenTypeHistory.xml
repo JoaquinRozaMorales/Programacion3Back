@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=microservicios-usuarios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.usuarios.services{AlumnoService.java[AlumnoService" modifiers="513" timestamp="1613434449603"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.services{CommonService.java[CommonService" modifiers="513" timestamp="1612759013438"/>
+    <typeInfo handle="=microservicios-cursos/C:\/Users\/Joaquin\/OneDrive\/Documentos\/jdk-12.0.2\/lib\/jrt-fs.jar`java.sql=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/12\/docs\/api\/=/&lt;javax.sql(CommonDataSource.class[CommonDataSource" modifiers="1537" timestamp="1563238876000"/>
+    <typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1613434005319"/>
+    <typeInfo handle="=microservicios-cursos/C:\/Users\/Joaquin\/OneDrive\/Documentos\/jdk-12.0.2\/lib\/jrt-fs.jar`java.desktop=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/12\/docs\/api\/=/&lt;sun.awt(AWTAccessor$CursorAccessor.class[CursorAccessor" modifiers="1545" timestamp="1563238876000"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1612759060742"/>
+    <typeInfo handle="=microservicios-examenes/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.examenes.services{ExamenService.java[ExamenService" modifiers="513" timestamp="1613590674911"/>
+    <typeInfo handle="=microservicios-usuarios/C:\/Users\/Joaquin\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.3.6.RELEASE\/spring-data-commons-2.3.6.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.3.6.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1611694568080"/>
+</typeInfoHistroy>
